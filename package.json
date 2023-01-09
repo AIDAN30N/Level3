@@ -1,0 +1,8 @@
+{
+    "name": "level3Navigation",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "leonardo.rivera",
+    "contributors": [],
+    "dependencies": {}
+}
